@@ -1,0 +1,8 @@
+_windows/
+codestyles/
+ex.txt
+example.txt
+github_settings.xml
+vcs.xml
+w1.html
+dsadsada
